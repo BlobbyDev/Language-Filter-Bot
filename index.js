@@ -6,7 +6,7 @@ client.login(config.Token).catch(console.error);
 client.on("ready", () =>{
 
   console.log(`Logged in as ${client.user.tag}`);
-  client.user.setActivity(`dsc.gg/djblob`, { type: 'PLAYING' })
+  client.user.setActivity(`For Bad Words`, { type: 'WATCHING' })
   process.on('unhandledRejection', err => console.log(err));
 });
 
