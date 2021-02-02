@@ -2,13 +2,6 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require("./config.json");
 
-
-
-
-
-
-
-
 client.login(config.Token).catch(console.error);
 client.on("ready", () =>{
 
@@ -16,8 +9,6 @@ client.on("ready", () =>{
   client.user.setActivity(`dsc.gg/djblob`, { type: 'PLAYING' })
   process.on('unhandledRejection', err => console.log(err));
 });
-
-
 
 client.on('message', message => {
   if(config.Words.some(word => message.content.toLowerCase().includes(word))){
