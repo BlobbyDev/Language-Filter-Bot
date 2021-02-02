@@ -10,7 +10,9 @@ If you also wanna add more anti ad or remove edit the config.json file
  
 ## Also chckout my music bot
 ### DJ Blob
+
+<a href="https://top.gg/bot/786209866946838528">
     <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
-</a> 
+</a>
 
 [Invite DJ Blob](https://discord.com/api/oauth2/authorize?client_id=786209866946838528&permissions=53865792&scope=bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
