@@ -1,5 +1,5 @@
 {
-	"Token" : "Bot Token",
+    "Token" : "Bot Token",
 
     "Ads": ["https://discord.com/oauth2/authorize?client_id=", "discord.gg/", "discord.com/api/oauth2/authorize?client_id=", "dsc.gg"],
     
